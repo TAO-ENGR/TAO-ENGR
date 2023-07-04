@@ -1,4 +1,4 @@
-[croptaologo.png](https://postimg.cc/1VDV2FPz)
+[![croptaologo.png](https://i.postimg.cc/7hW1C1WS/croptaologo.png)](https://postimg.cc/1VDV2FPz)
 
 # ENGR Teaching Assistant Association (TAO)
 
