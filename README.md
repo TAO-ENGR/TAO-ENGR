@@ -4,6 +4,8 @@
 
 We're an organization centered around helping the students of the Texas A&M's ENGR 102 and 216 through a discord community, exam review session, and 24/7 questions and answers and much more. :D
 
+🚀📡💻📺👨‍💻️💥💡📚🤖
+
 ## Join here:
-- (Discord)[https://tx.ag/engr102dc]
-- (LinkedIn)[https://www.linkedin.com/company/engr-ta-org/]
+- [Discord](https://tx.ag/engr102dc)
+- [LinkedIn](https://www.linkedin.com/company/engr-ta-org/)
